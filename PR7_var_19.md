@@ -43,17 +43,18 @@
 
 Возможные значения:
 
-* CRM
-* ERP
-* Portal
-
+- CRM
+- ERP
+- Portal  
+   
+    
 * **Priority** — приоритет заявки
 
 Возможные значения:
 
-* Low
-* Medium
-* High
+- Low
+- Medium
+- High
 
 ---
 
